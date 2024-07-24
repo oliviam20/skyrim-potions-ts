@@ -4,6 +4,8 @@ This project uses node 18.17.0 and npm 9.6.7
 
 Run `npm run build` then `npm run dev`
 
+To deploy to GitHub Pages, run `npm run deploy`
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
